@@ -1,0 +1,47 @@
+.right-column {
+    background: linear-gradient(0deg, rgba(18, 19, 21, 0.9), rgba(11, 12, 14, 0.9)), url('https://images.pexels.com/photos/443383/pexels-photo-443383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=400');
+}
+
+.row-header {
+    margin-top: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.row-rec {
+    margin-top: 100px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.row-body {
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.text {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 2rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.name{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.row-angle {
+    margin-top: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.row-dotted-circle {
+    margin-top: 120px;
+}

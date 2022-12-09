@@ -1,0 +1,37 @@
+.row-header {
+    margin-top: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+
+#cardWala:hover {
+    border: 2px solid #060709;
+    background-color: #F5F9FF;
+}
+
+#cardWala:hover #accountOutlined,
+#cardWala #accountCircle{
+    display: none;
+}
+
+#cardWala:hover #accountCircle {
+    display: inline;
+}
+
+#cardWala #arrow {
+    display: none;
+}
+
+#cardWala:hover #arrow {
+    display: inline;
+}
+
+#cardWala:hover #businessOutlined,
+#cardWala #bussinessCenter{
+    display: none;
+}
+
+#cardWala:hover #bussinessCenter {
+    display: inline;
+}
